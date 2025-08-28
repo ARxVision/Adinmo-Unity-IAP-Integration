@@ -16,6 +16,25 @@ Choose your Unity IAP version:
 - **Automatic purchase tracking** to Adinmo analytics
 - **Professional error handling** and troubleshooting
 
+## IAPBoost™ - Hybrid Monetization
+
+This integration unlocks **IAPBoost™**, AdInMo's intelligent IAP promotion system:
+
+**Smart IAP Promotion**
+- Promote your IAPs using non-intrusive InGamePlay ad placements
+- Show promotions to the right player at the right time using predictive audiences
+- AdInMo's predictive engine optimizes between IAPBoost and paid ads to maximize LTV
+
+**Seamless Player Experience**
+- Frictionless purchases - players buy IAPs without leaving the game
+- Campaigns don't interrupt gameplay or purchase flow
+- Supports both display and video ad formats
+
+**Flexible Campaign Types**
+- Promote starter packs, consumables, live ops events, and any IAP type
+- Drive conversions through targeted, contextual in-game promotions
+- Enhance your hybrid monetization strategy
+
 ## Requirements
 
 - Unity 2021.3 LTS or newer
