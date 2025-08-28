@@ -55,6 +55,16 @@ AdinmoStoreController m_StoreController = new AdinmoStoreController();
 - [`unity-iap-v4-integration.md`](unity-iap-v4-integration.md) - Unity IAP v4 integration guide
 - [`unity-iap-v5-integration.md`](unity-iap-v5-integration.md) - Unity IAP v5 integration guide
 
+## Working Examples
+
+The integration guides include complete code examples. For reference implementations, see:
+
+**Unity IAP v4 Implementation:**
+- Complete working example in [unity-iap-v4-integration.md](unity-iap-v4-integration.md#complete-implementation-example)
+
+**Unity IAP v5 Implementation:**
+- Complete working example in [unity-iap-v5-integration.md](unity-iap-v5-integration.md#complete-implementation-example)
+
 ## Support
 
 - **Documentation**: Browse the integration guides above
