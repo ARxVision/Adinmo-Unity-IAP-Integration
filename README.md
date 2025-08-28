@@ -1,6 +1,6 @@
 # Adinmo Unity IAP Integration
 
-Official integration guides for AdinmoPlugin with Unity In-App Purchasing (IAP).
+Integration guides for AdinmoPlugin with Unity In-App Purchasing (IAP).
 
 ## 📋 Quick Start
 
@@ -21,7 +21,18 @@ Choose your Unity IAP version:
 - Unity 2021.3 LTS or newer
 - AdinmoPlugin v3.14 or above
 - Unity IAP (UPM) v4.x.x or v5.x.x
-- Download from [Adinmo Portal](https://www.adinmo.com/)
+- **Free Adinmo Developer Account** - [Sign up here](https://www.adinmo.com/)
+
+## 🔐 Getting Started
+
+**Before integrating:** You must register for a free account on the [Adinmo Developer Portal](https://www.adinmo.com/) to download the latest InGamePlay SDK. The Developer Portal is where you can:
+
+- Download the AdinmoPlugin package
+- Add your games and manage campaigns  
+- Access performance dashboards
+- View full technical documentation
+
+**Sign up:** [https://www.adinmo.com/](https://www.adinmo.com/) → Developer Portal → Sign Up
 
 ## 🚀 Integration Overview
 

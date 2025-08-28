@@ -14,8 +14,13 @@
 3. **Search for "In App Purchasing"**
 4. **Install version 4.x.x** (latest stable)
 
-### 2. Install AdinmoPlugin
-1. **Download** the AdinmoPlugin package from [Adinmo Portal](https://www.adinmo.com/)
+### 2. Create Adinmo Developer Account
+1. **Sign up** for a free account at [Adinmo Developer Portal](https://www.adinmo.com/)
+2. **Login** to your Developer Portal dashboard
+3. **Navigate** to Downloads section to access the latest SDK
+
+### 3. Install AdinmoPlugin
+1. **Download** the AdinmoPlugin package from your [Adinmo Developer Portal](https://www.adinmo.com/)
 2. **Import** the `.unitypackage` file: `Assets` → `Import Package` → `Custom Package`
 3. **Verify installation**: Check that `AdinmoPlugin` folder appears in your Assets
 4. **Confirm version**: Ensure it's v3.14 or above in the package documentation
