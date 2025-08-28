@@ -20,6 +20,13 @@ Choose your Unity IAP version:
 
 This integration unlocks **IAPBoost™**, AdInMo's intelligent IAP promotion system:
 
+![IAPBoost User Journey](https://adinmo-website.s3.eu-west-1.amazonaws.com/Images/IAPboostuserjourney.png)
+
+### **IAPBoost Video Walkthrough**
+[![IAPBoost Tutorial](https://img.youtube.com/vi/T2gxtHovPXc/0.jpg)](https://www.youtube.com/watch?v=T2gxtHovPXc)
+
+Watch this tutorial to learn how to start using IAPBoost and drive LTV.
+
 **Smart IAP Promotion**
 - Promote your IAPs using non-intrusive InGamePlay ad placements
 - Show promotions to the right player at the right time using predictive audiences
