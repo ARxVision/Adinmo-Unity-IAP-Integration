@@ -4,7 +4,7 @@
 - **Unity 2021.3 LTS or newer**
 - **AdinmoPlugin v3.14 or above**
 - **Unity IAP (UPM) v4.x.x**
-- Download the AdinmoPlugin from the [Adinmo Portal](https://www.adinmo.com/)
+- **Free Adinmo Developer Account** - [Sign up here](https://www.adinmo.com/)
 
 ## Installation Prerequisites
 
