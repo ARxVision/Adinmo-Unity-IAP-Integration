@@ -2,39 +2,39 @@
 
 Integration guides for AdinmoPlugin with Unity In-App Purchasing (IAP).
 
-## 📋 Quick Start
+## Quick Start
 
 Choose your Unity IAP version:
 
 - **[Unity IAP v4 Integration Guide](unity-iap-v4-integration.md)** - For Unity IAP v4.x.x
 - **[Unity IAP v5 Integration Guide](unity-iap-v5-integration.md)** - For Unity IAP v5.x.x
 
-## 🎯 What You'll Get
+## What You'll Get
 
-- ✅ **2-step integration** for existing Unity IAP projects
-- ✅ **Complete code examples** ready to copy-paste
-- ✅ **Automatic purchase tracking** to Adinmo analytics
-- ✅ **Professional error handling** and troubleshooting
+- **2-step integration** for existing Unity IAP projects
+- **Complete code examples** ready to copy-paste
+- **Automatic purchase tracking** to Adinmo analytics
+- **Professional error handling** and troubleshooting
 
-## 📋 Requirements
+## Requirements
 
 - Unity 2021.3 LTS or newer
 - AdinmoPlugin v3.14 or above
 - Unity IAP (UPM) v4.x.x or v5.x.x
 - **Free Adinmo Developer Account** - [Sign up here](https://www.adinmo.com/)
 
-## 🔐 Getting Started
+## Getting Started
 
-**Before integrating:** You must register for a free account on the [Adinmo Developer Portal](https://www.adinmo.com/) to download the latest InGamePlay SDK. The Developer Portal is where you can:
+Before integrating, you must register for a free account on the [Adinmo Developer Portal](https://www.adinmo.com/) to download the latest InGamePlay SDK. The Developer Portal provides:
 
-- Download the AdinmoPlugin package
-- Add your games and manage campaigns  
-- Access performance dashboards
-- View full technical documentation
+- Download access to the AdinmoPlugin package
+- Game management and campaign setup  
+- Performance dashboards and analytics
+- Complete technical documentation
 
-**Sign up:** [https://www.adinmo.com/](https://www.adinmo.com/) → Developer Portal → Sign Up
+Sign up at [https://www.adinmo.com/](https://www.adinmo.com/) → Developer Portal → Sign Up
 
-## 🚀 Integration Overview
+## Integration Overview
 
 Both integrations maintain your existing purchase logic while adding seamless Adinmo tracking:
 
@@ -50,17 +50,17 @@ UnityPurchasingAdInMoExtensions.InitializeWithAdInMo(this, builder);
 AdinmoStoreController m_StoreController = new AdinmoStoreController();
 ```
 
-## 📁 Repository Contents
+## Repository Contents
 
 - [`unity-iap-v4-integration.md`](unity-iap-v4-integration.md) - Unity IAP v4 integration guide
 - [`unity-iap-v5-integration.md`](unity-iap-v5-integration.md) - Unity IAP v5 integration guide
 
-## 💡 Support
+## Support
 
-- 📖 **Documentation**: Browse the integration guides above
-- 🐛 **Issues**: If you encounter any problems, please [log a GitHub issue](https://github.com/ARxVision/Adinmo-Unity-IAP-Integration/issues) and we will look into it
-- 🌐 **Adinmo Portal**: [https://www.adinmo.com/](https://www.adinmo.com/)
+- **Documentation**: Browse the integration guides above
+- **Issues**: If you encounter any problems, please [log a GitHub issue](https://github.com/ARxVision/Adinmo-Unity-IAP-Integration/issues) and we will look into it
+- **Adinmo Portal**: [https://www.adinmo.com/](https://www.adinmo.com/)
 
-## 📄 License
+## License
 
 MIT License - see [LICENSE](LICENSE) file for details.

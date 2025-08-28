@@ -57,7 +57,7 @@ StoreController m_StoreController = new StoreController();
 AdinmoStoreController m_StoreController = new AdinmoStoreController();
 ```
 
-**That's it!** Your existing purchase handling logic can be adapted to the new event-based system.
+Your existing purchase handling logic can be adapted to the new event-based system.
 
 ## Complete Implementation Example
 
@@ -332,17 +332,17 @@ Campaign → SKU ID: "premium_upgrade"  ← Must match exactly (case-sensitive)
 ```
 
 **Common Matching Issues:**
-- ❌ `"Premium_Upgrade"` vs `"premium_upgrade"` (case mismatch)
-- ❌ `"premium-upgrade"` vs `"premium_upgrade"` (separator mismatch)
-- ❌ `"com.yourcompany.premium_upgrade"` vs `"premium_upgrade"` (prefix mismatch)
+- `"Premium_Upgrade"` vs `"premium_upgrade"` (case mismatch)
+- `"premium-upgrade"` vs `"premium_upgrade"` (separator mismatch)
+- `"com.yourcompany.premium_upgrade"` vs `"premium_upgrade"` (prefix mismatch)
 
 ## Key Benefits of Unity IAP v5 + Adinmo
 
-✅ **Event-Based Architecture**: Clean `OnPurchasePending` and `OnPurchaseConfirmed` events  
-✅ **Async/Await Support**: Modern async patterns with `await Connect()`  
-✅ **Enhanced Error Handling**: Detailed `FailedOrder` information  
-✅ **Automatic Purchase Tracking**: Built-in Adinmo analytics integration  
-✅ **Static Helper Methods**: `CheckAlreadyPurchased()`, `GetPrice()`, `PurchaseItem()`
+- **Event-Based Architecture**: Clean `OnPurchasePending` and `OnPurchaseConfirmed` events  
+- **Async/Await Support**: Modern async patterns with `await Connect()`  
+- **Enhanced Error Handling**: Detailed `FailedOrder` information  
+- **Automatic Purchase Tracking**: Built-in Adinmo analytics integration  
+- **Static Helper Methods**: `CheckAlreadyPurchased()`, `GetPrice()`, `PurchaseItem()`
 
 ## Troubleshooting
 
@@ -376,11 +376,11 @@ Campaign → SKU ID: "premium_upgrade"  ← Must match exactly (case-sensitive)
 - Check Unity Services configuration
 - Ensure proper store setup (Google Play Console/App Store Connect)
 
-## 💡 Support
+## Support
 
-- 📖 **Documentation**: [Main Documentation Hub](README.md)
-- 🐛 **Issues**: If you encounter any problems, please [log a GitHub issue](https://github.com/ARxVision/Adinmo-Unity-IAP-Integration/issues) and we will look into it
-- 🌐 **Adinmo Portal**: [https://www.adinmo.com/](https://www.adinmo.com/)
+- **Documentation**: [Main Documentation Hub](README.md)
+- **Issues**: If you encounter any problems, please [log a GitHub issue](https://github.com/ARxVision/Adinmo-Unity-IAP-Integration/issues) and we will look into it
+- **Adinmo Portal**: [https://www.adinmo.com/](https://www.adinmo.com/)
 
 ---
 

@@ -56,7 +56,7 @@ UnityPurchasing.Initialize(this, builder);
 UnityPurchasingAdInMoExtensions.InitializeWithAdInMo(this, builder);
 ```
 
-**That's it!** Your existing purchase handling logic remains completely unchanged.
+Your existing purchase handling logic remains completely unchanged.
 
 ## Complete Implementation Example
 
@@ -329,11 +329,11 @@ Campaign → SKU ID: "premium_upgrade"  ← Must match exactly (case-sensitive)
 - Verify AdinmoPlugin v3.14+ is imported
 - Check that all required assemblies are referenced
 
-## 💡 Support
+## Support
 
-- 📖 **Documentation**: [Main Documentation Hub](README.md)
-- 🐛 **Issues**: If you encounter any problems, please [log a GitHub issue](https://github.com/ARxVision/Adinmo-Unity-IAP-Integration/issues) and we will look into it
-- 🌐 **Adinmo Portal**: [https://www.adinmo.com/](https://www.adinmo.com/)
+- **Documentation**: [Main Documentation Hub](README.md)
+- **Issues**: If you encounter any problems, please [log a GitHub issue](https://github.com/ARxVision/Adinmo-Unity-IAP-Integration/issues) and we will look into it
+- **Adinmo Portal**: [https://www.adinmo.com/](https://www.adinmo.com/)
 
 ---
 
