@@ -6,18 +6,6 @@
 - **Unity IAP (UPM) v4.x.x**
 - **Free Adinmo Developer Account** - [Sign up here](https://www.adinmo.com/)
 
-## Why Integrate AdinmoPlugin?
-
-This integration unlocks **IAPBoost™** - AdInMo's hybrid monetization technology:
-
-- **Boost IAP Revenue**: Promote your IAPs through non-intrusive in-game ad placements
-- **Smart Targeting**: Predictive audiences show promotions to the right players at optimal moments  
-- **Seamless Experience**: Players purchase without leaving the game - no interruption to gameplay
-- **Flexible Formats**: Support for both display and video ad formats within your game environment
-- **Any IAP Type**: Promote starter packs, consumables, live ops events, and more
-
-The integration maintains your existing purchase logic while adding intelligent IAP promotion capabilities.
-
 ## Installation Prerequisites
 
 ### 1. Install Unity IAP v4

@@ -28,11 +28,13 @@ This integration unlocks **IAPBoost™**, AdInMo's intelligent IAP promotion sys
 **Seamless Player Experience**
 - Frictionless purchases - players buy IAPs without leaving the game
 - Campaigns don't interrupt gameplay or purchase flow
-- Supports both display and video ad formats
+- **Image Ad Formats**: Static and animated visual promotions integrated into game environments
+- **Video Ad Formats**: Video content promoting IAPs, seamlessly embedded in gameplay
 
 **Flexible Campaign Types**
 - Promote starter packs, consumables, live ops events, and any IAP type
 - Drive conversions through targeted, contextual in-game promotions
+- Choose between image and video formats based on your game's aesthetic and player engagement needs
 - Enhance your hybrid monetization strategy
 
 ## Requirements
