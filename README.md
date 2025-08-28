@@ -58,7 +58,7 @@ AdinmoStoreController m_StoreController = new AdinmoStoreController();
 ## 💡 Support
 
 - 📖 **Documentation**: Browse the integration guides above
-- 🐛 **Issues**: Report problems via GitHub Issues
+- 🐛 **Issues**: If you encounter any problems, please [log a GitHub issue](https://github.com/ARxVision/Adinmo-Unity-IAP-Integration/issues) and we will look into it
 - 🌐 **Adinmo Portal**: [https://www.adinmo.com/](https://www.adinmo.com/)
 
 ## 📄 License

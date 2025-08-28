@@ -376,6 +376,12 @@ Campaign → SKU ID: "premium_upgrade"  ← Must match exactly (case-sensitive)
 - Check Unity Services configuration
 - Ensure proper store setup (Google Play Console/App Store Connect)
 
+## 💡 Support
+
+- 📖 **Documentation**: [Main Documentation Hub](README.md)
+- 🐛 **Issues**: If you encounter any problems, please [log a GitHub issue](https://github.com/ARxVision/Adinmo-Unity-IAP-Integration/issues) and we will look into it
+- 🌐 **Adinmo Portal**: [https://www.adinmo.com/](https://www.adinmo.com/)
+
 ---
 
 This integration provides a modern, event-driven approach to Unity IAP while seamlessly adding Adinmo analytics tracking to your purchase flow.
